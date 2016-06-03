@@ -1,0 +1,4 @@
+{
+  // Java verticle
+  "main": "com.ojingo.vero.tcp_eb_brige_issue.vertx2.Vertx2Verticle"
+}
